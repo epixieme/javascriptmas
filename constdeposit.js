@@ -5,4 +5,4 @@ const depositProfit=(deposit, rate, threshold)=>Math.ceil(Math.log(threshold/dep
 
 depositProfit(deposit, rate, threshold)
 
-///challenge
+///challenges
